@@ -1,0 +1,19 @@
+{
+  "name": "return23",
+  "version": "1.0.0",
+  "description": "Returns the number 23",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valenwave/Return23.git"
+  },
+  "author": "Phi Dao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valenwave/Return23/issues"
+  },
+  "homepage": "https://github.com/valenwave/Return23#readme"
+}
