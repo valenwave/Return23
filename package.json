@@ -1,6 +1,6 @@
 {
   "name": "return23",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns the number 23",
   "main": "index.js",
   "scripts": {
